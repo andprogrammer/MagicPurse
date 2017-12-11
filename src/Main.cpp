@@ -382,4 +382,4 @@ int main(int argc, char **argv)
     return 0;
 }
 
-//clear && mkdir build && make && g++ Main.cpp -o Main && ./Main -/-/3     //4
+//clear && mkdir build && cmake .. && make && g++ Main.cpp -o Main && ./Main -/-/3     //4
