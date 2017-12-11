@@ -1,0 +1,7 @@
+/include
+    ClassDeclarations.h
+    LibsAndClassDeclarations.h
+/src
+    Main.cpp
+
+CMakeLists.txt
